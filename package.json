@@ -1,15 +1,15 @@
 {
-  "name": "webdriverio",
+  "name": "await-webdriverio",
   "description": "A Node.js bindings implementation for the W3C WebDriver protocol",
-  "version": "4.9.11",
+  "version": "5.0.0",
   "homepage": "http://webdriver.io",
   "author": "Camilo Tapia <camilo.tapia@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/webdriverio/webdriverio.git"
+    "url": "git://github.com/lgandecki/webdriverio.git"
   },
   "bugs": {
-    "url": "https://github.com/webdriverio/webdriverio/issues"
+    "url": "https://github.com/lgandecki/webdriverio/issues"
   },
   "license": "MIT",
   "main": "./build/index.js",
